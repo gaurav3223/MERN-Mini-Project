@@ -17,6 +17,22 @@
 
 
 **2. Front End and 3. Screenshots**
+- Login:
+![WhatsApp Image 2022-12-01 at 12 08 25 AM](https://user-images.githubusercontent.com/66900011/204881550-686c4b2e-6194-4741-bce8-0cb0eb5fd40c.jpeg)
+- Register:
+![WhatsApp Image 2022-12-01 at 12 08 25 AM (1)](https://user-images.githubusercontent.com/66900011/204881630-8d4efca6-9af7-4bad-926f-adaad0c0baa8.jpeg)
+- Home:
+![WhatsApp Image 2022-12-01 at 12 08 25 AM (2)](https://user-images.githubusercontent.com/66900011/204881705-3dbf1113-e456-4b61-98e2-cfcca9b29bf6.jpeg)
+- Exams:
+![WhatsApp Image 2022-12-01 at 12 08 25 AM (3)](https://user-images.githubusercontent.com/66900011/204881755-1245b320-bc19-4ffc-b3e1-8175a0c33d9e.jpeg)
+- Reports:
+![WhatsApp Image 2022-12-01 at 12 08 25 AM (4)](https://user-images.githubusercontent.com/66900011/204881809-aeca12e0-0f5f-446c-b9f4-7e8a0d8619d0.jpeg)
+- Add Exams:
+![WhatsApp Image 2022-12-01 at 12 08 26 AM](https://user-images.githubusercontent.com/66900011/204881865-503e9ec0-4ee2-4415-9901-c0d1b2a162fc.jpeg)
+- Add Questions:
+![WhatsApp Image 2022-12-01 at 12 08 25 AM (5)](https://user-images.githubusercontent.com/66900011/204881963-14924fff-4686-4db4-924f-0dddbed0b600.jpeg)
+- Edit Exam:
+![WhatsApp Image 2022-12-01 at 12 08 26 AM (2)](https://user-images.githubusercontent.com/66900011/204881919-42d9f30e-c876-4efa-9132-1f3e78883047.jpeg)
 
 
 **4. Features**
@@ -45,9 +61,6 @@ Quizmania can be used for conducting quiz by faculties, where the questions can 
 **7. Authors**
 Mern Mini Project for Ty-Comps '22
 A Project by: 
-  Name: Akshat Shah
-  Roll No.:16010120102
-  Name: Gaurav Mehta
-  Roll No.:16010120122  
-  Name: Ankur Shetty
-  Roll No.:16010120106
+- Name: Akshat Shah; Roll No.:16010120102
+- Name: Gaurav Mehta; Roll No.:16010120122  
+- Name: Ankur Shetty; Roll No.:16010120106
